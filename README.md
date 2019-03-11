@@ -1,4 +1,4 @@
-# Ajax-Listener-Google-Tag-Manager-GTM-
+# Ajax Listener Google Tag Manager (GTM)
 Copied from old Lunametrics post [http://www.lunametrics.com/blog/2015/08/27/ajax-event-listener-google-tag-manager/](http://www.lunametrics.com/blog/2015/08/27/ajax-event-listener-google-tag-manager/)
 ```javascript
 <script id="gtm-jq-ajax-listen" type="text/javascript">
